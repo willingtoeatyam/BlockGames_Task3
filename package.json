@@ -1,0 +1,24 @@
+{
+  "name": "blockgames_task3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willingtoeatyam/BlockGames_Task3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willingtoeatyam/BlockGames_Task3/issues"
+  },
+  "homepage": "https://github.com/willingtoeatyam/BlockGames_Task3#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.4",
+    "dotenv": "^16.0.0"
+  }
+}
